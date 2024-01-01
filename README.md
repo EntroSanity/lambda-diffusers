@@ -1,5 +1,13 @@
 # Lambda Diffusers
 
+## How to run benchmark
+
+`python3 ./scripts/benchmark.py > output.txt`
+
+And save the output csv and txt file in benchmark_results folder. Please rename to device name!
+
+---
+
 _Additional models and pipelines for 🤗 Diffusers created by [Lambda Labs](https://lambdalabs.com/)_
 
 - [Stable Diffusion Image Variations](#stable-diffusion-image-variations)

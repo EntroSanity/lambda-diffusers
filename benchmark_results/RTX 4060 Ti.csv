@@ -1,0 +1,9 @@
+device,precision,width,height,latency,memory_usage
+NVIDIA GeForce RTX 4060 Ti,single,512,512,7.01,7.5
+NVIDIA GeForce RTX 4060 Ti,single,512,768,11.69,8.49
+NVIDIA GeForce RTX 4060 Ti,single,512,1024,17.29,9.45
+NVIDIA GeForce RTX 4060 Ti,single,1024,1024,51.03,13.5
+NVIDIA GeForce RTX 4060 Ti,half,512,512,2.59,3.68
+NVIDIA GeForce RTX 4060 Ti,half,512,768,4.0,4.38
+NVIDIA GeForce RTX 4060 Ti,half,512,1024,5.58,5.06
+NVIDIA GeForce RTX 4060 Ti,half,1024,1024,13.68,7.44

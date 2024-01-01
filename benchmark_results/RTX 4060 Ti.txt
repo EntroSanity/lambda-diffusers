@@ -1,0 +1,16 @@
+{'precision': 'single', 'width': 512, 'height': 512, 'latency': 7.01, 'memory_usage': 7.5}
+============================
+{'precision': 'single', 'width': 512, 'height': 768, 'latency': 11.69, 'memory_usage': 8.49}
+============================
+{'precision': 'single', 'width': 512, 'height': 1024, 'latency': 17.29, 'memory_usage': 9.45}
+============================
+{'precision': 'single', 'width': 1024, 'height': 1024, 'latency': 51.03, 'memory_usage': 13.5}
+============================
+{'precision': 'half', 'width': 512, 'height': 512, 'latency': 2.59, 'memory_usage': 3.68}
+============================
+{'precision': 'half', 'width': 512, 'height': 768, 'latency': 4.0, 'memory_usage': 4.38}
+============================
+{'precision': 'half', 'width': 512, 'height': 1024, 'latency': 5.58, 'memory_usage': 5.06}
+============================
+{'precision': 'half', 'width': 1024, 'height': 1024, 'latency': 13.68, 'memory_usage': 7.44}
+============================
