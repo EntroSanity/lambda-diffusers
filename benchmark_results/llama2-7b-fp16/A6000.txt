@@ -1,0 +1,12 @@
+Number of Tokens: 230
+Total time in secs: 9.484367609024048
+Tokens per second: 24.25
+Mean elapsed time in secs: 9.653454470634461
+Variance of elapsed time in secs: 0.2748202685927235
+Standard deviation of elapsed time in secs: 0.524233028902914
+Mean tokens per second: 23.88
+Variance of tokens per second: 1.30
+Standard deviation of tokens per second: 1.14
+Mean number of tokens: 230
+Variance of number of tokens: 0
+Standard deviation of number of tokens: 0.00

@@ -3,6 +3,14 @@ import torch
 import time
 import statistics
 
+proxy = False
+if proxy:
+    import os
+    os.environ['CURL_CA_BUNDLE'] = ''
+    os.environ['HTTP_PROXY'] = "http://127.0.0.1:7890"
+    os.environ['HTTPS_PROXY'] = "http://127.0.0.1:7890"
+    os.environ['ALL_PROXY'] = "socks5://127.0.0.1:7890"
+
 model_name = "mistralai/Mistral-7B-Instruct-v0.1"  # Specify the model to use
 
 # Initialize the tokenizer
