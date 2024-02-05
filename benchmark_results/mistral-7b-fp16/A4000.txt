@@ -1,0 +1,9 @@
+Mean elapsed time in secs: 9.554180788993836
+Variance of elapsed time in secs: 0.06063504628189662
+Standard deviation of elapsed time in secs: 0.2462418451073997
+Mean tokens per second: 23.25
+Variance of tokens per second: 0.32
+Standard deviation of tokens per second: 0.56
+Mean number of tokens: 222
+Variance of number of tokens: 0
+Standard deviation of number of tokens: 0.00
