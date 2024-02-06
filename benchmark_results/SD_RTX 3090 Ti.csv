@@ -1,0 +1,9 @@
+device,precision,width,height,latency,memory_usage
+NVIDIA GeForce RTX 3090,single,512,512,4.26,7.58
+NVIDIA GeForce RTX 3090,single,512,768,6.82,8.74
+NVIDIA GeForce RTX 3090,single,512,1024,9.2,9.36
+NVIDIA GeForce RTX 3090,single,1024,1024,26.44,10.42
+NVIDIA GeForce RTX 3090,half,512,512,1.63,3.68
+NVIDIA GeForce RTX 3090,half,512,768,2.44,4.41
+NVIDIA GeForce RTX 3090,half,512,1024,3.57,5.06
+NVIDIA GeForce RTX 3090,half,1024,1024,8.47,6.68

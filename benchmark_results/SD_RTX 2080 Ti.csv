@@ -1,0 +1,9 @@
+device,precision,width,height,latency,memory_usage
+NVIDIA GeForce RTX 2080 Ti,single,512,512,5.87,6.89
+NVIDIA GeForce RTX 2080 Ti,single,512,768,9.49,8.11
+NVIDIA GeForce RTX 2080 Ti,single,512,1024,13.74,8.58
+NVIDIA GeForce RTX 2080 Ti,single,1024,1024,37.69,8.8
+NVIDIA GeForce RTX 2080 Ti,half,512,512,2.27,3.68
+NVIDIA GeForce RTX 2080 Ti,half,512,768,3.37,4.39
+NVIDIA GeForce RTX 2080 Ti,half,512,1024,4.83,5.05
+NVIDIA GeForce RTX 2080 Ti,half,1024,1024,12.4,7.41

@@ -1,0 +1,9 @@
+device,precision,width,height,latency,memory_usage
+NVIDIA GeForce GTX 1080 Ti,single,512,512,23.92,6.89
+NVIDIA GeForce GTX 1080 Ti,single,512,768,35.5,6.79
+NVIDIA GeForce GTX 1080 Ti,single,512,1024,error,error
+NVIDIA GeForce GTX 1080 Ti,single,1024,1024,error,error
+NVIDIA GeForce GTX 1080 Ti,half,512,512,50.26,4.84
+NVIDIA GeForce GTX 1080 Ti,half,512,768,102.57,5.2
+NVIDIA GeForce GTX 1080 Ti,half,512,1024,172.46,6.03
+NVIDIA GeForce GTX 1080 Ti,half,1024,1024,640.12,7.82
